@@ -1,0 +1,14 @@
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\bin\Debug\netcoreapp2.1\Microservices.OrderService.deps.json
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\bin\Debug\netcoreapp2.1\Microservices.OrderService.runtimeconfig.json
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\bin\Debug\netcoreapp2.1\Microservices.OrderService.runtimeconfig.dev.json
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\bin\Debug\netcoreapp2.1\Microservices.OrderService.dll
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.csprojAssemblyReference.cache
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.csproj.CoreCompileInputs.cache
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.RazorAssemblyInfo.cache
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.RazorAssemblyInfo.cs
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.AssemblyInfoInputs.cache
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.AssemblyInfo.cs
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.RazorTargetAssemblyInfo.cache
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\bin\Debug\netcoreapp2.1\Microservices.OrderService.pdb
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.dll
+D:\Assignments\MicroservicesAssignment\Microservices.OrderService\obj\Debug\netcoreapp2.1\Microservices.OrderService.pdb

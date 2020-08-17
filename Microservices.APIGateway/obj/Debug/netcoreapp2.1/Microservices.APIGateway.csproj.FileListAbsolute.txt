@@ -1,0 +1,14 @@
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\bin\Debug\netcoreapp2.1\Microservices.APIGateway.deps.json
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\bin\Debug\netcoreapp2.1\Microservices.APIGateway.runtimeconfig.json
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\bin\Debug\netcoreapp2.1\Microservices.APIGateway.runtimeconfig.dev.json
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\bin\Debug\netcoreapp2.1\Microservices.APIGateway.dll
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.csprojAssemblyReference.cache
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.csproj.CoreCompileInputs.cache
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.RazorAssemblyInfo.cache
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.RazorAssemblyInfo.cs
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.AssemblyInfoInputs.cache
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.AssemblyInfo.cs
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.RazorTargetAssemblyInfo.cache
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\bin\Debug\netcoreapp2.1\Microservices.APIGateway.pdb
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.dll
+D:\Assignments\MicroservicesAssignment\Microservices.APIGateway\obj\Debug\netcoreapp2.1\Microservices.APIGateway.pdb
